@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Optimizer/static/css/main.e6c13ad2.css",
+    "main.js": "/Optimizer/static/js/main.3bebdf86.js",
+    "index.html": "/Optimizer/index.html",
+    "main.e6c13ad2.css.map": "/Optimizer/static/css/main.e6c13ad2.css.map",
+    "main.3bebdf86.js.map": "/Optimizer/static/js/main.3bebdf86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3bebdf86.js"
+  ]
+}
